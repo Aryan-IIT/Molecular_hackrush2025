@@ -1,0 +1,6 @@
+venv
+molecular-property-prediction-challenge/structures_test
+molecular-property-prediction-challenge/structures_train
+molecular-property-prediction-challenge/dipole_moments_test.csv
+molecular-property-prediction-challenge/dipole_moments_train.csv
+.DS_Store
