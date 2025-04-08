@@ -2,6 +2,8 @@
 
 At present everything is way too crapy. I will improve it someday hopefully if this domain interests me. 
 
+3a => [Hackrush 2025](https://docs.google.com/document/d/1O707QXXW3proFxuNWlsOSd-18CEkkucLabOBEgU-GYc/edit?tab=t.0#heading=h.11b1e67wx0ys)
+
 ## What are we trying to achieve and how (high level)?
 
 Descriptor: A descriptor is a numerical feature (or a set of features) that summarizes a molecule's structure so that machine learning models can understand and use them.
